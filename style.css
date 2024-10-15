@@ -1,0 +1,28 @@
+body {
+    background-color: darkgrey;
+}
+p{
+    color:darkblue;
+}
+.coisa{
+    color:darkturquoise;
+    font-size: large;
+}
+.outro{
+    width: 30%;
+    text-align: right;
+}
+.sim{
+    width: 30%;
+}
+.nao{
+    width: 30%;
+}
+
+.talvez{
+    width: 30%;
+}
+
+.baby{
+    width: 30%;
+}
